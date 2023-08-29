@@ -1,5 +1,7 @@
 Welcome to the Captcha Tester App! This ReactJS application is designed to help you test various captcha types, including hCaptcha, reCAPTCHA, and Cloudflare captcha. Captchas play a crucial role in enhancing online security, and this app allows you to explore and experiment with different captcha implementations.
 
+to make sure everything works properly i recommend using ur own sitekeys, You can get em on hcaptcha/google recaptcha/cloudflare sites for free. 
+
 ## Features
 
 - Test different types of captchas, such as hCaptcha, reCAPTCHA, and Cloudflare captcha.
