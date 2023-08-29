@@ -11,8 +11,8 @@ to make sure everything works properly i recommend using ur own sitekeys, You ca
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/captcha-tester-app.git`
-2. Navigate to the project directory: `cd captcha-tester-app`
+1. Clone the repository: 
+2. Navigate to the project directory: `cd`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 
